@@ -13,6 +13,9 @@ This is a screenshot of a render result.
 
 The animation demo of the above is hosted on Youtube:
 
+![Generative Art Animation Still](https://www.youtube.com/embed/5R1qMF2lUnI "Generative Art Animation Still")
+
+
 <iframe width="900" height="700" src="https://www.youtube.com/embed/5R1qMF2lUnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Change Log
