@@ -11,12 +11,10 @@ This is a screenshot of a render result.
 
 ![Generative Art Animation Still](media-docs/screenshot.png?raw=true "Generative Art Animation Still")
 
-The animation demo of the above is hosted on Youtube:
+The animation demo of the above:
 
-[![Metal Shader Animation Demo]
-(https://img.youtube.com/vi/5R1qMF2lUnI/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=5R1qMF2lUnI)
-
+[Metal Shader Animation Demo](https://www.youtube.com/watch?v=5R1qMF2lUnI) hosted on Youtube.
+![](https://img.youtube.com/vi/5R1qMF2lUnI/maxresdefault.jpg)
 
 #### Change Log
 
